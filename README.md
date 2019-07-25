@@ -8,5 +8,4 @@ As soon as the Developer pushes the code to GitHub,Jenkins will take that code a
 
 
 
-![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
